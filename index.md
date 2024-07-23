@@ -5,7 +5,6 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: Este brief contiene indicaciones para comenzar a usar Blender en su version 4.2.
-
 These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 ---
 
