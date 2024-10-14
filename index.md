@@ -13,7 +13,9 @@ summary: Este brief contiene indicaciones para comenzar a usar Blender en su ver
 
 El sitio oficial es: <a href='https://www.blender.org/'>Blender. org</a>   
 
-### 1. Instalaciòn en portable
+### 1. Instalación del portable
+
+Entramos al sitio y buscamos Download, ahora en donde dice macOS, Linux and other versions, localizamos Windows Portable (.zip) y le damos click a esa opción, automaticamente se va abrir la ventana para las descargas. el programa estará como blender-4.2.X.windows-x64.zip
 
 First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
 
